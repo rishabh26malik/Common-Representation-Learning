@@ -1,6 +1,8 @@
-# SMAI-CorMCNN-Project
+# Common Representation Learning
 
-Actual paper - Common Representation Learning Using Step-based Correlation Multi-Modal CNN
+Paper Title - Common Representation Learning Using Step-based Correlation Multi-Modal CNN
+
+Paper Link - https://arxiv.org/pdf/1711.00003.pdf
 
 Implemented code link - `https://github.com/GauravBh1010tt/DeepLearn/blob/master/corrMCNN/CorrMCNN_Arch2.py`
 
